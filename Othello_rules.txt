@@ -1,0 +1,15 @@
+Othello – rules
+
+The Goal of the game:
+Have more stones than the other player at the end of the game.
+
+End of the game:
+1.	When the board is full.
+2.	When none of the players can make a valid move.
+
+Move:
+You can place your stone to any square in the grid as long as at least one of the opponent’s stones turns into your colour. 
+The stone turns colour when it is surrounded from two sides with your colour in any direction.
+
+Example: b w b will become b b b; or b w w w w b will turn to b b b b b b 
+
